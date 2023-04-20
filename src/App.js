@@ -41,7 +41,7 @@ function App() {
         <Alert alert={alert} />
         <Routes>
           <Route exact path='/about'
-            element={<About/>}/>
+            element={<About mode={mode} />}/>
 
           <Route exat path='/'
             element={<Textform
@@ -55,4 +55,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; 
