@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textXehger/static/css/main.073c9b0a.css",
+    "main.js": "/textXehger/static/js/main.28a29732.js",
+    "static/js/787.28cb0dcd.chunk.js": "/textXehger/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/textXehger/index.html",
+    "main.073c9b0a.css.map": "/textXehger/static/css/main.073c9b0a.css.map",
+    "main.28a29732.js.map": "/textXehger/static/js/main.28a29732.js.map",
+    "787.28cb0dcd.chunk.js.map": "/textXehger/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.28a29732.js"
+  ]
+}
